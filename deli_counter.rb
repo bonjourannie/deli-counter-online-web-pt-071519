@@ -13,3 +13,9 @@ def line(katz_deli)
     puts current_line
   end
 end
+
+def take_a_number(katz_deli)
+  if katz_deli.empty?
+    puts 
+  
+end
